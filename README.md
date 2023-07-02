@@ -47,7 +47,7 @@ sRGB-Noise-Synthesis
 
 Download pretrained checkpoints here and place them into `/pretrain/` folder.
 
-Google drive: | Camera name | [IP](https://drive.google.com/drive/folders/1jouUbKfSz9vpvChuY5J-gvWN4JLkYs3H?usp=sharing) | [G4](https://drive.google.com/drive/folders/1oqhax1aESnqIx6q4jVqp_7XuoloGlJuk?usp=sharing) | GP | N6 | S6 |
+Google drive: | Camera name | [IP](https://drive.google.com/drive/folders/1jouUbKfSz9vpvChuY5J-gvWN4JLkYs3H?usp=sharing) | [G4](https://drive.google.com/drive/folders/1oqhax1aESnqIx6q4jVqp_7XuoloGlJuk?usp=sharing) | [GP](https://drive.google.com/drive/folders/1L2lzAMmzUT1flYWdkmTtGnPAWBirGvAr?usp=sharing) | [N6](https://drive.google.com/drive/folders/1I7TEWZ2HnEVjAvE24wwYGBQvElqqdEH4?usp=sharing) | [S6](https://drive.google.com/drive/folders/1HgHNluBdvky5HHB-fvRDelfBRv9gebcT?usp=sharing) |
 
 ## Quick test
 
